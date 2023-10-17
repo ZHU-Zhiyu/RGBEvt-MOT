@@ -3,4 +3,4 @@ RGB-Event MOT: a cross-modal benchmark for multi-object detection and tracking u
 
 Here is a video demo of our recent research on cross-modal RGB-Event object tracking.
 
-![Watch the video](https://img.youtube.com/vi/gOQEjg3I3co/maxresdefault.jpg)](https://youtu.be/gOQEjg3I3co)
+[![Watch the video](https://img.youtube.com/vi/gOQEjg3I3co/maxresdefault.jpg)](https://youtu.be/gOQEjg3I3co)
